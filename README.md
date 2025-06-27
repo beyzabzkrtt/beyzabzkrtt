@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Beyzanur Bozkurt!
 
-<!--
-**beyzabzkrtt/beyzabzkrtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a newly graduated Computer Engineer from Pamukkale University.  
+💻 I'm passionate about backend development and currently improving my skills in desktop application development.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java | Spring Boot
+- C# | .NET | WinForms
+- MS SQL | Dapper
+- HTML | CSS | JavaScript (basic)
+- React (beginner level)
+
+## 📚 Projects & Experience
+
+- 🤖 **Thesis Project**: AI-powered music recommendation system using Natural Language Processing  
+- 🌾 **Internship Project**: Desktop app for farmers to manage orders, integrated with MS SQL  
+- 🌐 Built several small backend projects using Java and Spring Boot
+
+## 📈 Goals
+
+- Gain hands-on experience in real-world projects  
+- Improve problem-solving, teamwork, and communication skills  
+- Learn more about cloud technologies and DevOps
+
+
